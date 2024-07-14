@@ -59,7 +59,7 @@ app.use("/users", usersRouter);
 app.use('/product',productRoute)
 app.use('/mattresses',matterssesRoute)
 app.use('/beds',bedsRoute)
-app.use('/accrssories',accessoriesRoute)
+app.use('/accessories',accessoriesRoute)
 app.use('/sales',salesRoute)
 app.use('/service',serviceRoute)
 app.use('/checkout',checkoutRoute)
